@@ -5,4 +5,4 @@ add
 add 2
 git 4
 git 5
-update in the branch dev
+conflict test update in the branch master
